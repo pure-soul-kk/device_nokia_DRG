@@ -15,10 +15,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_DRG.mk
+    $(LOCAL_DIR)/aosp_DRG.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_DRG-eng \
-    lineage_DRG-user \
-    lineage_DRG-userdebug
+    aosp_DRG-eng \
+    aosp_DRG-user \
+    aosp_DRG-userdebug
 
